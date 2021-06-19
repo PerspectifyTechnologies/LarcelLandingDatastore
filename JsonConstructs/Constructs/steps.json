@@ -1,0 +1,10 @@
+{
+    "INDEX":"<index>",
+    "TITLE":"<title>",
+    "DESCRIPTION/BRIEF":"<description/brief>",
+    "IMAGE":"<url>",
+    "META" : {
+              "TITLE":"title",
+              "DESCRIPTION":"description"
+             }
+}

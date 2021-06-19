@@ -1,0 +1,8 @@
+{
+    "ID":"<id>",
+    "CATEGORY":"<category>",
+    "META" : {
+              "TITLE":"title",
+              "DESCRIPTION":"description"
+             }
+}
