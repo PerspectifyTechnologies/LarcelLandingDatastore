@@ -1,4 +1,0 @@
-C:\Users\Abhin\Perspectify\Repos\LarcelLandingDatastore\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\JsonContructs.AssemblyInfoInputs.cache
-C:\Users\Abhin\Perspectify\Repos\LarcelLandingDatastore\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\JsonContructs.AssemblyInfo.cs
-C:\Users\Abhin\Perspectify\Repos\LarcelLandingDatastore\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\JsonContructs.csproj.CoreCompileInputs.cache
-C:\Users\Abhin\Perspectify\Repos\LarcelLandingDatastore\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\JsonContructs.MvcApplicationPartsAssemblyInfo.cache

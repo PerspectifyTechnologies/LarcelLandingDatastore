@@ -1,9 +1,0 @@
-{
-    "ID":"<id>",
-    "QUESTION": "<question>",
-    "ANSWER":"<Answer>",
-    "META" : {
-              "TITLE":"title",
-              "DESCRIPTION":"description"
-             }
-}
