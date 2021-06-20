@@ -2,7 +2,7 @@
   "Faq":
   [
     {
-     "ID":"121",
+     "ID": 1,
      "Question":"title1",
      "Answer":"description/brief",
       "Meta":{
@@ -10,7 +10,7 @@
         "Description":"description"
       }
     },
-    {"ID":"12",
+    {"ID": 2,
      "Question":"<title>",
      "Answer":"<description/brief>",
      "Meta":{
