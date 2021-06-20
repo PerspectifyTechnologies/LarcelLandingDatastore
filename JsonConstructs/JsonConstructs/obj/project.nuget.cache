@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "/0RdD5mlEFFaEXYM3HUWILL7AaEE0KP0Gc9nEf4KRbmnRvdjQwtWvRjRmZtrLwDI5yDGOIk+HOIMzTt6ZLrlmg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Abhin\\Perspectify\\Repos\\LarcelLandingDatastore\\JsonConstructs\\JsonConstructs\\JsonConstructs.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Abhin\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
