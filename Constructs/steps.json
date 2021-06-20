@@ -1,7 +1,7 @@
 {
   "steps": [
     {
-      "INDEX": "1",
+      "INDEX": 1,
       "TITLE": "title1",
       "DESCRIPTION": "description/brief",
       "IMAGE": "url",
@@ -12,7 +12,7 @@
     },
 
     {
-      "INDEX": "<index>",
+      "INDEX": 2,
       "TITLE": "<title>",
       "DESCRIPTION": "<description/brief>",
       "IMAGE": "<url>",
