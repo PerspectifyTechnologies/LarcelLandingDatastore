@@ -7,9 +7,9 @@ namespace JsonConstructs.Models
 {
     public class FaqModel
     {
-        public string ID { get; set; }
-        public string Questions { get; set; }
-        public string Answers { get; set; }
+        public int ID { get; set; }
+        public string Question { get; set; }
+        public string Answer { get; set; }
         public MetaModel Meta { get; set; }
     }
 }

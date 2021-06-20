@@ -7,7 +7,7 @@ namespace JsonConstructs.Models
 {
     public class CategoryModel
     {
-        public string ID { get; set; }
+        public int ID { get; set; }
         public string Category { get; set; }
         public MetaModel Meta { get; set; }
     }

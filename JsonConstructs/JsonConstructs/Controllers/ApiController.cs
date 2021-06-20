@@ -15,11 +15,10 @@ namespace JsonConstructs.Controllers
     {
         [HttpGet]
         [Route("{id}")]
-
         public string GetJson(string id)
         {
             WebClient client = new WebClient();
-            string path = @"https://raw.githubusercontent.com/Abhinandan14/myjson/main/" + id + ".json";
+            string path = @"https://raw.githubusercontent.com/PerspectifyTechnologies/LarcelLandingDatastore/main/Constructs/" + id + ".json";
             try
             {
                 var rawJSON = client.DownloadString(path);
