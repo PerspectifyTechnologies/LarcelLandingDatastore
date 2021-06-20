@@ -1,7 +1,7 @@
 {
   "category": [
     {
-      "ID": "<id>",
+      "ID": 1,
       "CATEGORY": "<category>",
       "META": {
         "TITLE": "title",
@@ -9,7 +9,7 @@
       }
     },
     {
-      "ID": "<id>",
+      "ID": 2,
       "CATEGORY": "<category>",
       "META": {
         "TITLE": "title",
