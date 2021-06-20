@@ -1,22 +1,23 @@
 {
-  "faq": [
+  "Heading":
+  [
     {
-      "ID": "1",
-      "Question": "title1",
-      "Answer": "description/brief",
-      "META": {
-        "TITLE": "title",
-        "DESCRIPTION": "description"
+     "ID":"121",
+     "Title":"title1",
+     "Description":"description/brief",
+      "Meta":{
+        "Title":"title",
+        "Description":"description"
       }
     },
-    {
-      "ID": "<index>",
-      "Question": "<title>",
-      "Answer": "<description/brief>",
-      "META": {
-        "TITLE": "title",
-        "DESCRIPTION": "description"
-      }
+    {"ID":"12",
+     "Title":"<title>",
+     "Description":"<description/brief>",
+     "Meta":{
+       "Title":"title",
+       "Description":"description"
+     }
     }
   ]
 }
+
