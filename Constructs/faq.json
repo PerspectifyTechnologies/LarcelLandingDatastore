@@ -1,18 +1,18 @@
 {
   "faq": [
     {
-      "INDEX": "1",
-      "question": "title1",
-      "answer": "description/brief",
+      "ID": "1",
+      "Question": "title1",
+      "Answer": "description/brief",
       "META": {
         "TITLE": "title",
         "DESCRIPTION": "description"
       }
     },
     {
-      "INDEX": "<index>",
-      "question": "<title>",
-      "answer": "<description/brief>",
+      "ID": "<index>",
+      "Question": "<title>",
+      "Answer": "<description/brief>",
       "META": {
         "TITLE": "title",
         "DESCRIPTION": "description"
