@@ -1,8 +1,21 @@
 {
-    "ID":"<id>",
-    "CATEGORY":"<category>",
-    "META" : {
-              "TITLE":"title",
-              "DESCRIPTION":"description"
-             }
+  "category": [
+    {
+      "ID": "<id>",
+      "CATEGORY": "<category>",
+      "META": {
+        "TITLE": "title",
+        "DESCRIPTION": "description"
+      }
+    },
+    {
+      "ID": "<id>",
+      "CATEGORY": "<category>",
+      "META": {
+        "TITLE": "title",
+        "DESCRIPTION": "description"
+      }
+    }
+
+  ]
 }

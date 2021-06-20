@@ -1,10 +1,26 @@
 {
-    "INDEX":"<index>",
-    "TITLE":"<title>",
-    "DESCRIPTION/BRIEF":"<description/brief>",
-    "IMAGE":"<url>",
-    "META" : {
-              "TITLE":"title",
-              "DESCRIPTION":"description"
-             }
+  "steps": [
+    {
+      "INDEX": "1",
+      "TITLE": "title1",
+      "DESCRIPTION": "description/brief",
+      "IMAGE": "url",
+      "META": {
+        "TITLE": "title",
+        "DESCRIPTION": "description"
+      }
+    },
+
+    {
+      "INDEX": "<index>",
+      "TITLE": "<title>",
+      "DESCRIPTION": "<description/brief>",
+      "IMAGE": "<url>",
+      "META": {
+        "TITLE": "title",
+        "DESCRIPTION": "description"
+      }
+    }
+  ]
+
 }
