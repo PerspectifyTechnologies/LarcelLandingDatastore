@@ -6,7 +6,7 @@
        [
          {id:1,
          title:"store1",
-         links: [
+         Links: [
                   {
                   text:"catalog",
                   link:"url"
@@ -19,7 +19,7 @@
                 
          {id:2,
          title:"store2",
-         links: [
+         Links: [
                   {
                   text:"catalog",
                   link:"url"
