@@ -1,19 +1,19 @@
 {
-  "category": [
+  "Category": [
     {
       "id": 1,
       "category": "<category>",
-      "meta": {
+      "Meta": {
         "title": "title",
         "description": "description"
       }
     },
     {
-      "ID": 2,
-      "CATEGORY": "<category>",
-      "META": {
-        "TITLE": "title",
-        "DESCRIPTION": "description"
+      "id": 2,
+      "category": "<category>",
+      "Meta": {
+        "title": "title",
+        "description": "description"
       }
     }
   ]
