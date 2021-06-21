@@ -2,20 +2,20 @@
   "Faq":
   [
     {
-     "ID": 1,
-     "Question":"title1",
-     "Answer":"description/brief",
+     "id": 1,
+     "question":"title1",
+     "answer":"description/brief",
       "Meta":{
-        "Title":"title",
-        "Description":"description"
+        "title":"title",
+        "description":"description"
       }
     },
-    {"ID": 2,
-     "Question":"<title>",
-     "Answer":"<description/brief>",
+    {"id": 2,
+     "question":"<title>",
+     "answer":"<description/brief>",
      "Meta":{
-       "Title":"title",
-       "Description":"description"
+       "title":"title",
+       "description":"description"
      }
     }
   ]

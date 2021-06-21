@@ -2,20 +2,20 @@
   "Heading":
   [
     {
-     "ID": 1,
-     "Title":"title1",
-     "Description":"description/brief",
-      "Meta":{
-        "Title":"title",
-        "Description":"description"
+     "id": 1,
+     "title":"title1",
+     "description":"description/brief",
+      "meta":{
+        "title":"title",
+        "description":"description"
       }
     },
-    {"ID": 2,
-     "Title":"<title>",
-     "Description":"<description/brief>",
+    {"id": 2,
+     "title":"<title>",
+     "description":"<description/brief>",
      "Meta":{
-       "Title":"title",
-       "Description":"description"
+       "title":"title",
+       "description":"description"
      }
     }
   ]
