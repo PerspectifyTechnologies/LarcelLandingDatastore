@@ -1,0 +1,33 @@
+{
+  "Footer": [
+    {
+      "copyrightText": "",
+      "sections": 
+       [
+         {id:1,
+         title:"store1",
+         links: [
+                  {
+                  text:"catalog",
+                  link:"url"
+                  },
+                  {
+                  text:"catalog",
+                  link:"url"
+                  }
+                ]},
+                
+         {id:2,
+         title:"store2",
+         links: [
+                  {
+                  text:"catalog",
+                  link:"url"
+                  },
+                  {
+                  text:"catalog",
+                  link:"url"
+                  }
+                ]}
+      ]
+}
