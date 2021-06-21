@@ -1,24 +1,24 @@
 {
-  "steps": [
+  "Steps": [
     {
-      "INDEX": 1,
-      "TITLE": "title1",
-      "DESCRIPTION": "description/brief",
-      "IMAGE": "url",
-      "META": {
-        "TITLE": "title",
-        "DESCRIPTION": "description"
+      "index": 1,
+      "title": "title1",
+      "description": "description/brief",
+      "image": "url",
+      "Meta": {
+        "title": "title",
+        "description": "description"
       }
     },
 
     {
-      "INDEX": 2,
-      "TITLE": "<title>",
-      "DESCRIPTION": "<description/brief>",
-      "IMAGE": "<url>",
-      "META": {
-        "TITLE": "title",
-        "DESCRIPTION": "description"
+      "index": 2,
+      "title": "<title>",
+      "description": "<description/brief>",
+      "image": "<url>",
+      "Meta": {
+        "title": "title",
+        "description": "description"
       }
     }
   ]
