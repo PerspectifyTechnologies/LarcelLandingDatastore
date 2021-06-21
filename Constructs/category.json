@@ -1,11 +1,11 @@
 {
   "category": [
     {
-      "ID": 1,
-      "CATEGORY": "<category>",
-      "META": {
-        "TITLE": "title",
-        "DESCRIPTION": "description"
+      "id": 1,
+      "category": "<category>",
+      "meta": {
+        "title": "title",
+        "description": "description"
       }
     },
     {
