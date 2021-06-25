@@ -2,7 +2,7 @@
   "Category": [
     {
       "id": 1,
-      "category": "<category>",
+      "category": "TVUnit",
       "Meta": {
         "title": "title",
         "description": "description"
@@ -10,7 +10,23 @@
     },
     {
       "id": 2,
-      "category": "<category>",
+      "category": "Chair",
+      "Meta": {
+        "title": "title",
+        "description": "description"
+      }
+    },
+    {
+      "id": 3,
+      "category": "Sofa",
+      "Meta": {
+        "title": "title",
+        "description": "description"
+      }
+    },
+    {
+      "id": 4,
+      "category": "Table",
       "Meta": {
         "title": "title",
         "description": "description"
