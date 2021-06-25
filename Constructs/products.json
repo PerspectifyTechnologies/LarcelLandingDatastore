@@ -1,0 +1,87 @@
+[{
+		"id": "blueBars",
+		"name": "Wooden Cladding Navy Blue",
+		"description": "",
+		"cost": 75000,
+		"category": "TVUnit",
+		"Image": "blueBars.png"
+	},
+	{
+		"id": "tvunitgranite",
+		"name": "Granite  Cladding",
+		"description": "",
+		"cost": 75000,
+		"category": "TVUnit",
+		"Image": "tvunitgranite.png"
+	},
+	{
+		"id": "tvunitmarble",
+		"name": "Marble Cladding",
+		"description": "",
+		"cost": 75000,
+		"category": "TVUnit",
+		"Image": "tvunitmarble.png"
+	},
+	{
+		"id": "",
+		"name": "White Paint",
+		"description": "",
+		"cost": 2500,
+		"category": "TVUnit",
+		"Image": "whitepaint.png"
+	},
+	{
+		"id": "blueyellowchair1",
+		"name": "Yellow Blue Sit up chair",
+		"description": "",
+		"cost": 6999,
+		"category": "Chair",
+		"Image": "blueyellowchair1.png"
+	},
+	{
+		"id": "yellowchair",
+		"name": "Black faux Leather Sit up chair",
+		"description": "",
+		"cost": 16999,
+		"category": "Chair",
+		"Image": "yellowchair.png"
+	}, {
+		"id": "blockysofa",
+		"name": "Soft Faux Lenin Modular",
+		"description": "",
+		"cost": 23999,
+		"category": "Sofa",
+		"Image": "blockysofa.png"
+	},
+	{
+		"id": "luxurysofa",
+		"name": "Anteec Faux Leather Sofa",
+		"description": "",
+		"cost": 26999,
+		"category": "Sofa",
+		"Image": "luxurysofa.png"
+	},
+	{
+		"id": "luxurysofared",
+		"name": "Anttec Pocketed Rajasthani Sofa",
+		"description": "",
+		"cost": 26999,
+		"category": "Sofa",
+		"Image": "luxurysofared.png"
+	}, {
+		"id": "tvtablewood1",
+		"name": "Anttec Pocketed Rajasthani Sofa",
+		"description": "",
+		"cost": 12000,
+		"category": "Table",
+		"Image": "tvtablewood1.png"
+	},
+	{
+		"id": "tvtablewood2",
+		"name": "Anttec Pocketed Rajasthani Sofa",
+		"description": "",
+		"cost": 12000,
+		"category": "Table",
+		"Image": "tvtablewood2.png"
+	}
+]
