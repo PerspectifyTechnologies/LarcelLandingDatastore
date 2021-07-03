@@ -4,7 +4,7 @@
 		"description": "",
 		"cost": 75000,
 		"category": "TVUnit",
-		"Image": "Render_TVUnit_01.jpg"
+		"Image": "Blue_Wall_01_b.jpg"
 	},
 	{
 		"id": "tvunitgranite",
@@ -12,7 +12,7 @@
 		"description": "",
 		"cost": 75000,
 		"category": "TVUnit",
-		"Image": "Render_TVUnit_03.jpg"
+		"Image": "BlackMarble_Wall.jpg"
 	},
 	{
 		"id": "tvunitmarble",
@@ -20,7 +20,7 @@
 		"description": "",
 		"cost": 75000,
 		"category": "TVUnit",
-		"Image": "Render_TVUnit_02.jpg"
+		"Image": "WhiteMarble_Wall.jpg"
 	},
 	{
 		"id": "",
@@ -28,7 +28,7 @@
 		"description": "",
 		"cost": 2500,
 		"category": "TVUnit",
-		"Image": "Render_TVUnit_01.jpg"
+		"Image": "WhiteMarble_Wall.jpg"
 	},
 	{
 		"id": "blueyellowchair1",
@@ -36,7 +36,7 @@
 		"description": "",
 		"cost": 6999,
 		"category": "Chair",
-		"Image": "Studio_Chair_1.jpg"
+		"Image": "Chair_1.jpg"
 	},
 	{
 		"id": "yellowchair",
@@ -51,7 +51,7 @@
 		"description": "",
 		"cost": 23999,
 		"category": "Sofa",
-		"Image": "Render_08.jpg"
+		"Image": "Render_09.jpg"
 	},
 	{
 		"id": "luxurysofa",
@@ -59,7 +59,7 @@
 		"description": "",
 		"cost": 26999,
 		"category": "Sofa",
-		"Image": "Render_07_b.jpg"
+		"Image": "Render_08.jpg"
 	},
 	{
 		"id": "luxurysofared",
@@ -67,14 +67,14 @@
 		"description": "",
 		"cost": 26999,
 		"category": "Sofa",
-		"Image": "Render_09.jpg"
+		"Image": "Render_07.jpg"
 	}, {
 		"id": "tvtablewood1",
 		"name": "Anttec Pocketed Rajasthani Sofa",
 		"description": "",
 		"cost": 12000,
 		"category": "Table",
-		"Image": "Render_TVUnit_01_b.jpg"
+		"Image": "Render_TVUnit_01.jpg"
 	},
 	{
 		"id": "tvtablewood2",
@@ -82,6 +82,6 @@
 		"description": "",
 		"cost": 12000,
 		"category": "Table",
-		"Image": "Render_TVUnit_01_b.jpg"
+		"Image": "Render_TVUnit_02_b.jpg"
 	}
 ]
