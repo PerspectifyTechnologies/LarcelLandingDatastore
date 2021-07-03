@@ -4,7 +4,7 @@
 		"description": "",
 		"cost": 75000,
 		"category": "TVUnit",
-		"Image": "blueBars.png"
+		"Image": "Render_TVUnit_01.jpg"
 	},
 	{
 		"id": "tvunitgranite",
@@ -12,7 +12,7 @@
 		"description": "",
 		"cost": 75000,
 		"category": "TVUnit",
-		"Image": "tvunitgranite.png"
+		"Image": "Render_TVUnit_03.jpg"
 	},
 	{
 		"id": "tvunitmarble",
@@ -20,7 +20,7 @@
 		"description": "",
 		"cost": 75000,
 		"category": "TVUnit",
-		"Image": "tvunitmarble.png"
+		"Image": "Render_TVUnit_02.jpg"
 	},
 	{
 		"id": "",
@@ -28,7 +28,7 @@
 		"description": "",
 		"cost": 2500,
 		"category": "TVUnit",
-		"Image": "whitepaint.png"
+		"Image": "Render_TVUnit_01.jpg"
 	},
 	{
 		"id": "blueyellowchair1",
@@ -36,7 +36,7 @@
 		"description": "",
 		"cost": 6999,
 		"category": "Chair",
-		"Image": "blueyellowchair1.png"
+		"Image": "Studio_Chair_1.jpg"
 	},
 	{
 		"id": "yellowchair",
@@ -44,14 +44,14 @@
 		"description": "",
 		"cost": 16999,
 		"category": "Chair",
-		"Image": "yellowchair.png"
+		"Image": "Chair_2.jpg"
 	}, {
 		"id": "blockysofa",
 		"name": "Soft Faux Lenin Modular",
 		"description": "",
 		"cost": 23999,
 		"category": "Sofa",
-		"Image": "blockysofa.png"
+		"Image": "Render_08.jpg"
 	},
 	{
 		"id": "luxurysofa",
@@ -59,7 +59,7 @@
 		"description": "",
 		"cost": 26999,
 		"category": "Sofa",
-		"Image": "luxurysofa.png"
+		"Image": "Render_07_b.jpg"
 	},
 	{
 		"id": "luxurysofared",
@@ -67,14 +67,14 @@
 		"description": "",
 		"cost": 26999,
 		"category": "Sofa",
-		"Image": "luxurysofared.png"
+		"Image": "Render_09.jpg"
 	}, {
 		"id": "tvtablewood1",
 		"name": "Anttec Pocketed Rajasthani Sofa",
 		"description": "",
 		"cost": 12000,
 		"category": "Table",
-		"Image": "tvtablewood1.png"
+		"Image": "Render_TVUnit_01_b.jpg"
 	},
 	{
 		"id": "tvtablewood2",
@@ -82,6 +82,6 @@
 		"description": "",
 		"cost": 12000,
 		"category": "Table",
-		"Image": "tvtablewood2.png"
+		"Image": "Render_TVUnit_01_b.jpg"
 	}
 ]
