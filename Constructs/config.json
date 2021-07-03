@@ -1,3 +1,3 @@
 {
- "prodImageBaseUrl": "s3://larcel-image-storage/Products/"
+ "prodImageBaseUrl": "https://larcel-image-storage.s3.ap-south-1.amazonaws.com/Products"
 }
