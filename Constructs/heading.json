@@ -1,22 +1,14 @@
 {
-  "Heading":
-  [
-    {
-     "id": 1,
-     "title":"Redesign your Future",
-     "description":"Larcel Space redefines your outlook towards Interior Design.Emphasizing Customer delight without the limitations of time constraints.A hassle-free process of designing your interiors at the ease of one click. Get a seamless experience of making your dream house a reality.",
-      "meta":{
-        "title":"Larcel.Space:Design your interior at the ease of one Click",
-        "description":"Our team of qualified professionals at Larcel Space will make your dream house a reality. Our services are designed to provide a hassle-free experience  "
-      }
-    },
-    {"id": 2,
-     "title":"<title>",
-     "description":"<description/brief>",
-     "Meta":{
-       "title":"title",
-       "description":"description"
-     }
-    }
-  ]
+	"Heading":
+
+	{
+
+		"title": "Redesign your Future",
+		"description": "Larcel Space redefines your outlook towards Interior Design.Emphasizing Customer delight without the limitations of time constraints.A hassle-free process of designing your interiors at the ease of one click. Get a seamless experience of making your dream house a reality.",
+		"meta": {
+			"title": "Larcel.Space:Design your interior at the ease of one Click",
+			"description": "Our team of qualified professionals at Larcel Space will make your dream house a reality. Our services are designed to provide a hassle-free experience  "
+
+		}
+	}
 }
