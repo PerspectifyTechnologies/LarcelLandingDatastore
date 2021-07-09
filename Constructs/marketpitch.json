@@ -1,18 +1,8 @@
 {
   "MarketPitch": [
-    {
-      "id": 1,
-      "title": "Customized Designs",
-      "description": "Tired of Standard Templates? Custom Design your home at Larcel in just a few clicks",
-      "image": "url",
-      "Meta": {
-        "title": "title",
-        "description": "description"
-      }
-    },
 
     {
-      "id": 2,
+      "id": 1,
       "title": "Interior Design Experts",
       "description": "Our team of professional Interior Designers will deliver luxurious home interiors which suit your taste and budget",
       "image": "<url>",
@@ -22,7 +12,7 @@
       }
     },
      {
-      "id": 3,
+      "id": 2,
       "title": "Time-saving",
       "description": "Get your home Designs in less than 3 Days.",
       "image": "<url>",
@@ -30,6 +20,17 @@
         "title": "title",
         "description": "description"
       }
+    },
+     {
+      "id": 3,
+      "title": "Customized Designs",
+      "description": "Tired of Standard Templates? Custom Design your home at Larcel in just a few clicks",
+      "image": "url",
+      "Meta": {
+        "title": "title",
+        "description": "description"
+      },
+      
     }
     
   ]
