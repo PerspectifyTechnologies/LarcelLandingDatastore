@@ -1,7 +1,7 @@
 {
 	"Steps": [{
 			"index": 1,
-			"title": "Step 1",
+			"title": "Get Detailed Scan of your House",
 			"description": "We replicate your house in 3D. One of our team members will visit the site to shoot a video of your home.",
 			"image": "url",
 			"Meta": {
@@ -12,7 +12,7 @@
 
 		{
 			"index": 2,
-			"title": "Step 2",
+			"title": "Get more than 1 design based on your taste",
 			"description": "Our team of highly talented designers will design your home personalised just for you!",
 			"image": "<url>",
 			"Meta": {
@@ -22,7 +22,7 @@
 		},
 		{
 			"index": 3,
-			"title": "Step 3",
+			"title": "Preview by looking through the free room",
 			"description": "Unlock a room for free so you can experience our designs before subscribing to the entire payment plan! Once you're satisfied, your home will be ready in less than 45 days*!",
 			"image": "<url>",
 			"Meta": {
@@ -32,7 +32,7 @@
 		},
 		{
 			"index": 4,
-			"title": "Step 4",
+			"title": "Ready to join the Larcel Family ?",
 			"description": " Get started on your home interiors with Larcel by filling the form and our designers will get in touch with you in no time!",
 			"image": "<url>",
 			"Meta": {
