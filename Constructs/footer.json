@@ -1,11 +1,11 @@
 {
     "Footer": [
       {
-        "copyrightText": "",
+        "copyrightText": "Copyright Perspectify © 2021 \n Larcel a Perspectify Company",
         "sections": 
          [
            {"id":1,
-           "title":"store1",
+           "title":"Home",
            "Links": [
                     {
                     "text":"catalog",
@@ -18,7 +18,7 @@
                   ]},
                   
            {"id":2,
-           "title":"store1",
+           "title":"Store",
            "Links": [
                     {
                     "text":"catalog",
