@@ -5,27 +5,27 @@
         "sections": 
          [
            {"id":1,
-           "title":"Home",
+           "title":"Larcel",
            "Links": [
                     {
-                    "text":"catalog",
+                    "text":"Home",
                     "link":"url"
                     },
                     {
-                    "text":"catalog",
+                    "text":"Store",
                     "link":"url"
                     }
                   ]},
                   
            {"id":2,
-           "title":"Store",
+           "title":"Larcel.Design",
            "Links": [
                     {
-                    "text":"catalog",
+                    "text":"Sign up",
                     "link":"url"
                     },
                     {
-                    "text":"catalog",
+                    "text":"Demo",
                     "link":"url"
                     }
                   ]}
