@@ -51,7 +51,7 @@
 		"description": "",
 		"cost": 23999,
 		"category": "Sofa",
-		"Image": "Render_09.jpg"
+		"Image": "Render_10_b.jpg"
 	},
 	{
 		"id": "luxurysofa",
@@ -59,7 +59,7 @@
 		"description": "",
 		"cost": 26999,
 		"category": "Sofa",
-		"Image": "Render_08.jpg"
+		"Image": "cutrenderLeather.jpg"
 	},
 	{
 		"id": "luxurysofared",
@@ -67,21 +67,21 @@
 		"description": "",
 		"cost": 26999,
 		"category": "Sofa",
-		"Image": "Render_07.jpg"
+		"Image": "cutRenderRajasthani.jpg"
 	}, {
 		"id": "tvtablewood1",
-		"name": "Anttec Pocketed Rajasthani Sofa",
+		"name": "Brown Wooden Hanging Table",
 		"description": "",
 		"cost": 12000,
 		"category": "Table",
-		"Image": "Render_TVUnit_01.jpg"
+		"Image": "tvUnit2.jpg"
 	},
 	{
 		"id": "tvtablewood2",
-		"name": "Anttec Pocketed Rajasthani Sofa",
+		"name": "White Modern table",
 		"description": "",
 		"cost": 12000,
 		"category": "Table",
-		"Image": "Render_TVUnit_02_b.jpg"
+		"Image": "tvUnitWhite.jpg"
 	}
 ]
