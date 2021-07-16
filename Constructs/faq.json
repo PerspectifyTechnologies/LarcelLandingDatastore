@@ -3,16 +3,16 @@
   [
     {
      "id": 1,
-     "question":"title1",
-     "answer":"description/brief",
+     "question":"How many days for Project completion",
+     "answer":"We take up and finish projects to ensure quality",
       "Meta":{
         "title":"title",
         "description":"description"
       }
     },
     {"id": 2,
-     "question":"<title>",
-     "answer":"<description/brief>",
+     "question":"How much is the 3D Design cost ?",
+     "answer":"All around the industry vendor charges Rs 8,000 to Rs 25,000 per photograph and if you want photographs for your entire house \n it could go well beyond 1Lakh INR. At Larcel we have designed a technology that voids that, you can customize and get instant feedback on your virutal space at no extra cost. \n At Larcel we want you to have the best furnitrues and interiors, not a virtual photograph.",
      "Meta":{
        "title":"title",
        "description":"description"
